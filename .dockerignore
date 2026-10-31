@@ -1,0 +1,9 @@
+# Allow only package inputs into the build context.
+**
+!pyproject.toml
+!README.md
+!LICENSE
+!src/
+!src/mcp_mde_kql/
+!src/mcp_mde_kql/**/
+!src/mcp_mde_kql/**/*.py

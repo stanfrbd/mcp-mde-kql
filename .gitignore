@@ -61,3 +61,6 @@ htmlcov/
 
 # Claude
 .claude/
+
+# Codex
+.codex/
